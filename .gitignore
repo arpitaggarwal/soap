@@ -1,0 +1,8 @@
+soap-client/.project
+soap-client/.classpath
+soap-client/.settings/*
+soap-client/target/*
+soap-server/.project
+soap-server/.classpath
+soap-server/.settings/*
+soap-server/target/*
